@@ -1,6 +1,6 @@
 # PrOGrAMmING-BLOGS💻💻💻
 
-# All programming Blogs📖📖
+# All `programming` Blogs📖📖
 
 # Hello world
 **All about prog😊ramming and tech information**
