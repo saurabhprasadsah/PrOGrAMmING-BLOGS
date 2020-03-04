@@ -11,7 +11,13 @@
 
 #Recursive problem
 
-#😯
+What are Algebraic Structures Let’s start by looking at the type String. You probably already know that you can perform certain operations on it. You can concat it with another String, you can check if a String is equal to another String, and so on. These are pretty basic stuff, right? Algebraic Structures gives us a common language of “stuff” we can do with our types, and what rules they follow. OK, let’s dig deeper. Take a look at equality, the fact that you can do === on a variable to compare it to another. Do all types have this feature? Let’s have a look… 'a' === 'a' // true 1 === 1 // true true === true // true [1] === [1] // false Hmm… it looks like theArray Integer type lacks the ability to provide the expected result. So, equality is not a feature of all types. OK, how can we solve this? Here is a crazy suggestion, what if we make a new function? WARNING! The following code is for demonstration purposes. Do not manipulate Array.pr
+
+
+
+
+
+
 
 
 # Happy code😊😊😊 
