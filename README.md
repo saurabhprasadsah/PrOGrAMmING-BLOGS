@@ -16,6 +16,16 @@ What are Algebraic Structures Let’s start by looking at the type String. You p
 # jupyter notebook documentation
 https://readthedocs.org/projects/jupyter-notebook/downloads/pdf/latest/
 
+• Python(https://github.com/ipython/ipython)
+• Julia (https://github.com/JuliaLang/IJulia.jl)
+• R (https://github.com/IRkernel/IRkernel)
+• Ruby (https://github.com/minrk/iruby)
+• Haskell (https://github.com/gibiansky/IHaskell)
+• Scala (https://github.com/Bridgewater/scala-notebook)
+• node.js (https://gist.github.com/Carreau/4279371)
+• Go (https://github.com/takluyver/igo)
+
+
  # Corona Effect 
 
 **BE happy and Stay at home**
