@@ -24,9 +24,7 @@ https://readthedocs.org/projects/jupyter-notebook/downloads/pdf/latest/
 • Scala (https://github.com/Bridgewater/scala-notebook)
 • node.js (https://gist.github.com/Carreau/4279371)
 • Go (https://github.com/takluyver/igo)
-
-
- # Corona Effect 
+ 
 
 **BE happy and Stay at home**
 
